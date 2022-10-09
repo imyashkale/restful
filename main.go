@@ -16,6 +16,7 @@ type User struct {
 }
 
 func main() {
+	// start from here
 	// container contains group of webservices
 	wc := restful.NewContainer()
 
